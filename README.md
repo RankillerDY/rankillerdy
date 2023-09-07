@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif)
+![MasterHead](https://cloudblogs.microsoft.com/wp-content/uploads/sites/37/2021/04/Duke_OpenJDK_animation_Final.gif)
 <h1 align="center">Hi 👋, I'm Dinh Gia Bao</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
