@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rankillerdy&label=Profile%20views&color=0e75b6&style=flat" alt="rankillerdy" /> </p>
 
-- 🌱 I’m currently learning **Java, JS, Kotlin, Typescript**
+- 🌱 I’m currently learning **Java, JS, Typescript**
 
 - 💬 Ask me about **Java**
 
